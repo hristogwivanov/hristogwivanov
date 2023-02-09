@@ -1,4 +1,8 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋, I'm Hristo!</h2>
+- 🌱 I’m currently learning JavaScript. 
+- 📫 How to reach me: gw.hivanov@gmail.com
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
 
 <!--
 **hristogwivanov/hristogwivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
