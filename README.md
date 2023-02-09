@@ -1,8 +1,9 @@
 <h2 align="center">Hi there 👋, I'm Hristo!</h2>
-- 🌱 I’m currently learning JavaScript. 
+- 🌱 I’m currently learning JavaScript.<br>
 - 📫 How to reach me: gw.hivanov@gmail.com
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada)
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hristogwivanov&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="hristogwivanov stats card" /></p>
 
 <!--
 **hristogwivanov/hristogwivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
