@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, JavaScript, React, C# and solidity.<br>
 - 🌱 I’m currently learning Python.<br>
 - 💞️ I’m looking to collaborate on blockchain projects.<br>
-- 📫 You can reach me on gw.hivanov@gmail.com<br>
+- 📫 You can reach me on gw.hivanov@gmail.com<br><br>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hristogwivanov&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="hristogwivanov stats card" /></p>
