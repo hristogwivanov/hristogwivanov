@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I’m Hristo Ivanov!</h2><br>
 - 👀 I’m interested in Python, JavaScript, React, C# and Solidity.<br>
-- 🌱 I’m currently working as front-end developer, SEO/SEM expert at Varna Free University.<br>
+- 🌱 I’m currently working as front-end developer and SEO/SEM expert at Varna Free University.<br>
 - 💞️ I’m looking to collaborate on blockchain projects.<br>
 - 📫 You can reach me on gw.hivanov@gmail.com<br><br>
 
